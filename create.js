@@ -10,16 +10,63 @@ function brs(num) {
 
 function ait() {
   let content = document.getElementById('contentdiv')
-
+//
 }
 function apa() {
-  let content = document.getElementById('contentdiv')
+  location.href='apa.html'
 
 }
-function magnet() {
-  let content = document.getElementById('contentdiv')
+function dance() {
+  location.href='dance.html'
 
 }
+function hello() {
+  location.href='hello.html'
+
+}
+function walkAway() {
+  location.href='walkaway.html'
+
+}
+function class() {
+  location.href='class.html'
+
+}function sit() {
+  location.href='sit.html'
+
+}function newsit() {
+  location.href='newsit.html'
+
+}
+function apa1() {
+    text = "You bump into someone who is 'in character', he is starting to breathe heavy, what will you do?"
+    let content = document.getElementById('contentdiv')
+    let brStr = brs(5);
+    content.innerHTML = (brStr + text + brStr);
+}
+//
+function robot() {
+  location.href='robot.html'
+
+}
+
+function auditorium() {
+  location.href='auditorium.html'
+
+}function tesla() {
+  location.href='tesla.html'
+
+}function magnet() {
+  location.href='magnet.html'
+
+}
+function magnet1() {
+    text = "You have been told to do one of three things, what will you do?"
+    let content = document.getElementById('contentdiv')
+    let brStr = brs(5);
+    content.innerHTML = (brStr + text + brStr);
+  }
+//
 function uctech() {
   text = 'UCTECH has a variety of vocations to choose from. Which one will you choose?'
   let content = document.getElementById('contentdiv')
