@@ -28,14 +28,14 @@ function walkAway() {
   location.href='walkaway.html'
 
 }
-function class() {
+function clas() {
   location.href='class.html'
 
 }function sit() {
   location.href='sit.html'
 
 }function newsit() {
-  location.href='newsit.html'
+  location.href='newseat.html'
 
 }
 function apa1() {
@@ -87,4 +87,12 @@ function ignore() {
 }
 function returnTitle() {
   location.href='./index.html'
+}
+
+function party(){
+  location.href='party.html'
+}
+
+function yatch(){
+  location.href='yatch.html'
 }
